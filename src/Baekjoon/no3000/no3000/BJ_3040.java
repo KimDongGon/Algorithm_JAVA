@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class BJ_3040_백설공주와일곱난쟁이_김동곤 {
+public class BJ_3040 {
 	private static int[] arr;
 	private static boolean[] visited;
 	

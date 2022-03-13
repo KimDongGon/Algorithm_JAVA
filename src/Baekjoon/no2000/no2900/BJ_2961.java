@@ -1,12 +1,11 @@
 package Baekjoon.no2000.no2900;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_2961_도영이가만든맛있는음식_김동곤 {
+public class BJ_2961 {
 	private static int N;
 	private static int MIN = Integer.MAX_VALUE;
 	private static int[] A;
