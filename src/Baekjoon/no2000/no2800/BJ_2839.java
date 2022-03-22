@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BJ_2839_설탕배달_김동곤 {
+public class BJ_2839 {
 	private static int MIN = Integer.MAX_VALUE;
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {

@@ -1,12 +1,11 @@
 package Baekjoon.no2000.no2500;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ_2564_경비원_김동곤 {
+public class BJ_2564 {
 	private static int w, h;
 	private static class Pos {
 		int row;
