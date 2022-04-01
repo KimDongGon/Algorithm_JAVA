@@ -2,7 +2,7 @@ package Baekjoon.no2000.no2600;
 
 import java.util.Scanner;
 
-public class BJ_2669_직사각형네개의합집합의면적구하기_김동곤 {
+public class BJ_2669 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

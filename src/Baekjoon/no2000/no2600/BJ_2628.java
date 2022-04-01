@@ -1,13 +1,12 @@
 package Baekjoon.no2000.no2600;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class BJ_2628_종이자르기_김동곤 {
+public class BJ_2628 {
 	public static void main(String[] args) throws IOException {
 //		BufferedReader reader = new BufferedReader(new FileReader("src/input_BJ_2628_종이자르기.txt"));
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
